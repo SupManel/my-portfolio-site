@@ -12,3 +12,6 @@ Portfolio pessoal desenvolvido com React, TypeScript e Tailwind CSS.
 - Design responsivo
 - Navegação suave entre seções
 - Interface moderna e limpa
+
+## 🔗 Live Demo
+[View Portfolio](https://my-portfolio-site-eight-rust.vercel.app/)
